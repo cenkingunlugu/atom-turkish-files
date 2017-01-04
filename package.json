@@ -1,7 +1,7 @@
 {
   "name": "atom-turkish-files",
   "main": "./lib/main",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "This plugin makes your files to be able to understand the Turkish words and write them in Turkish characters.",
   "keywords": [
     "turkish",
