@@ -1,0 +1,18 @@
+'menü': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Atom Turkish Files'
+      'submenu': [
+        {
+          'label': 'Show Turkish Characters On File'
+          'command': 'atom-turkish-files:convert'
+        },
+        {
+          'label': 'Show Turkish Characters On Selection'
+          'command': 'atom-turkish-files:convertSelection'
+        },
+      ]
+    ]
+  }
+]

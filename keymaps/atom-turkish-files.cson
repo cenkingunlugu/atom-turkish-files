@@ -9,3 +9,4 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-text-editor':
   'ctrl-alt-t': 'atom-turkish-files:convert'
+  'ctrl-alt-s': 'atom-turkish-files:convertSelection'
