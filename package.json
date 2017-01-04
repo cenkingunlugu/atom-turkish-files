@@ -1,0 +1,20 @@
+{
+  "name": "atom-turkish-files",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "This plugin makes your files to be able to understand the Turkish words and write them in Turkish characters.",
+  "keywords": [
+    "turkish",
+    "characters",
+    "atom",
+    "plugin"
+  ],
+  "repository": "https://github.com/cenkingunlugu/atom-turkish-files",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "deasciifier": "0.0.2"
+  }
+}
