@@ -1,7 +1,7 @@
 {
   "name": "atom-turkish-files",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This plugin makes your files to be able to understand the Turkish words and write them in Turkish characters.",
   "keywords": [
     "turkish",
@@ -15,6 +15,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "deasciifier": "0.0.2"
+    "turkish-deasciifier": "1.0.0"
   }
 }
